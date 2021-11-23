@@ -6,5 +6,12 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="red">#F95A2C</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="mainBgColor">#F3D5CC</color>
+    <color name="asideBgColor">#DBDFED</color>
+    <color name="asideCategoryBgColor">#EAEAEA</color>
+    <color name="mainPlantCategory">#F95A2C</color>
+    <color name="plantCategory">#FFFFFFFF</color>
+    <color name="asideBgPlantCategory">#EFC8C8</color>
 </resources>

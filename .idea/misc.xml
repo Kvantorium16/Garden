@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Garden/app/src/main/res/drawable/ic_category.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Garden/app/src/main/res/drawable/ic_circle.xml" value="0.31471861471861473" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Garden/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Garden/app/src/main/res/layout/category_item.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Garden/app/src/main/res/layout/plant_category.xml" value="0.30526315789473685" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Garden/app/src/main/res/layout/plant_item.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
