@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Garden</string>
+    <string name="Shop">Магазин</string>
+    <string name="Search">Поиск</string>
+    <string name="Profile">Профиль</string>
+    <string name="Popular">Популярное</string>
+    <string name="p1">Кортошка</string>
 </resources>
